@@ -9,6 +9,8 @@ Additional functionality:
 - Blinking "$"
 
 Usage:
+- git clone https://github.com/Sejsig/FancyBashV1
+- cd FancyBashV1
 - chmod +x fancybash.sh
 - ./fancybash.sh
 - *Restart your terminal*
